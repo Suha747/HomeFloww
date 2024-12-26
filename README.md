@@ -10,4 +10,4 @@ Welcome to the HomeFlow, a smart application for a essential step to home automa
 
 ## Features
 Main Page:
- - ![Dashboard]
+ - ![Dashboard](https://github.com/Suha747/HomeFloww/blob/main/features.PNG)
