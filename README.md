@@ -23,7 +23,7 @@ HomeFlow is a smart home management application built with WPF (Windows Presenta
 ![HomeFlow Main Screen](https://github.com/Suha747/HomeFloww/blob/main/features.PNG) 
 *Main Dashboard with temperature control and device management.*
 
-![Device Control](./screenshots/device-control.png)  
+![Device Control]([./screenshots/device-control.png](https://github.com/Suha747/HomeFloww/blob/main/card.PNG))  
 *Controlling devices with custom toggle buttons.*
 
 ## Setup
